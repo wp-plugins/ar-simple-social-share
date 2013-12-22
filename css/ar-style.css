@@ -1,0 +1,46 @@
+/** 
+Styles for Ar Simple Socil Sharing 
+Author @Abdul Awal
+**/
+.ar_share_wrapper{
+	font-family: Great Vibes, arial, sans-serif;
+	font-size: 30px;
+	width: 100%;
+	margin: 30px auto;
+}
+.clear{
+	clear: both;
+}
+.ar_share_wrapper ul li{
+	list-style:none;
+	border-right: 0px solid #ddd;
+	padding:0 15px 10px 0;
+	float:left;
+	text-align:center;
+}
+.ar_share_wrapper ul li ul{
+	display:none;
+}
+.ar_share_wrapper ul li:hover ul{
+	display: block;
+	box-shadow: 2px 3px 17px #555;
+	border-radius: 40px;
+	position: absolute;
+	padding: 10px 20px 0px;
+	margin-top:10px;
+	background:#fff;
+}
+.ar_share_wrapper ul li:hover{
+	background: url('../images/box_arrow.png') no-repeat bottom center;
+}
+.ar_share_wrapper ul li:hover ul li{
+	padding:0 3px;
+	border-right:0px;
+	width: auto;
+	list-style:none;
+	background: none;
+}
+.ar_share_wrapper ul li:hover ul li:hover{
+	padding-bottom: 0px;
+	background: none;
+}
