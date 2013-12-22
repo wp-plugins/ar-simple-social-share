@@ -5,7 +5,7 @@ Description: Add a group of simple dropdown social sharing buttons on your wordp
 Plugin URI: http://arwpthemes.com/plugins/ar-simple-social-share
 Author: AR WP Themes
 Author URI: http://arwpthemes.com 
-Version: 1.0
+Version: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
