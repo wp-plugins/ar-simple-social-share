@@ -24,7 +24,11 @@ Author @Abdul Awal
 .ar_share_wrapper ul li:hover ul{
 	display: block;
 	box-shadow: 2px 3px 17px #555;
+	-webkit-box-shadow: 2px 3px 17px #555;
+	-moz-box-shadow: 2px 3px 17px #555;
 	border-radius: 40px;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
 	position: absolute;
 	padding: 10px 20px 0px;
 	margin-top:10px;
@@ -39,6 +43,9 @@ Author @Abdul Awal
 	width: auto;
 	list-style:none;
 	background: none;
+}
+.ar_share_wrapper ul li:hover ul li img{
+	vertical-align: top;
 }
 .ar_share_wrapper ul li:hover ul li:hover{
 	padding-bottom: 0px;
