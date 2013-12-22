@@ -4,7 +4,7 @@ Donate link: http://goo.gl/0bwB6m
 Tags: Share, Social Share, Facebook, Twitter, Pinterest
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,7 +51,7 @@ Yes. We have shortcode for manual use.
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.1 =
 * Fixed Description on Plugin Page
 * Fixed some css issues
 
