@@ -1,6 +1,6 @@
 === AR Simple Social Share ===
 Contributors: mamb2b
-Donate link: 
+Donate link: http://goo.gl/0bwB6m
 Tags: Share, Social Share, Facebook, Twitter, Pinterest
 Requires at least: 3.0
 Tested up to: 3.8
@@ -14,7 +14,7 @@ This plugin is developed to show a social sharing popup on your site after conte
 
 AR Simple social sharing plugin is a lightweight plugin tha comes with various options to show sharing option in posts & pages. Also it has a shortcode, so you can use the sharing link anywhere you want.
 Shortcode : [ar-simple-social-share]
-Theme File : <?php echo do_shortcode('[ar-simple-social-share]'); ?>
+Theme File : `<?php echo do_shortcode('[ar-simple-social-share]'); ?>`
 
 == Installation ==
 
@@ -25,7 +25,7 @@ b. Extract the zipped folder
 c. Upload `ar-simple-social-share` to the `/wp-content/plugins/` directory
 d. Activate the plugin through the 'Plugins' menu in WordPress
 e. Go To 'AR Social Share' menu to configure options
-f. Use [ar-simple-social-share] shortcode & <?php echo do_shortcode('[ar-simple-social-share]'); ?> in template file to use the plugin manually.
+f. Use [ar-simple-social-share] shortcode & `<?php echo do_shortcode('[ar-simple-social-share]'); ?>` in template file to use the plugin manually.
 
 2. Automatic Install
 a. Go to Plugins-> Add New from your wordpress Dashboard
@@ -33,7 +33,7 @@ b. Search AR Simple Social Share
 c. From the results click on 'install now'
 d. Activate the plugin through the 'Plugins' menu in WordPress
 e. Go To 'AR Social Share' menu to configure options
-f. Use [ar-simple-social-share] shortcode & <?php echo do_shortcode('[ar-simple-social-share]'); ?> in template file to use the plugin manually.
+f. Use [ar-simple-social-share] shortcode & `<?php echo do_shortcode('[ar-simple-social-share]'); ?>` in template file to use the plugin manually.
 
 == Frequently Asked Questions ==
 
