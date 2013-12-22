@@ -110,7 +110,27 @@ $options = array(
 		        Ar WP Themes</h1>
 		        ",
 			"default" => array()),
-    
+    	array(
+	        "section" => "general",
+	        "type" => "heading",
+	        "title" => "Support & Donate",
+	        "id" => "general-support"
+	    ),
+
+	    	array(
+		    "under_section" => "general-support",
+			"type" => "checkbox",
+			"name" => "",
+			"id" => array(),				
+			"options" => array(),
+		    "desc" => "<h3>Need support about this plugin ?</h3>
+		        <p><strong>Please use the <a href='http://wordpress.org/support/plugin/ar-simple-social-share' target='_blank'>support page on our wordpress.org</a> or email me directly at 
+		        mamb2b.awal@gmail.com<br />
+	    		<br />
+	    		<h3>Liked this plugin ? Let's make a small donation</h3>
+	    		If you like this plugin, you may donate any amount you like. Totally depends on you.
+	    		<strong><a href='http://goo.gl/0bwB6m' title='Thanks a lot for your donation!'>Click Here to go to Donation Page</a></strong>
+		        </p>"),
     /*
      * 
      *  = General Settings Section
