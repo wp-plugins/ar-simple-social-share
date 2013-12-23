@@ -130,6 +130,13 @@ $options = array(
 	    		<h3>Liked this plugin ? Let's make a small donation</h3>
 	    		If you like this plugin, you may donate any amount you like. Totally depends on you.
 	    		<strong><a href='http://goo.gl/0bwB6m' title='Thanks a lot for your donation!'>Click Here to go to Donation Page</a></strong>
+	    		<form action='https://www.paypal.com/cgi-bin/webscr' method='post' target='_top'>
+				<input type='hidden' name='cmd' value='_s-xclick'>
+				<input type='hidden' name='hosted_button_id' value='M88S665VA6DVQ'>
+				<input type='image' src='https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'>
+				<img alt='' border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'>
+				</form>
+
 		        </p>"),
     /*
      * 
