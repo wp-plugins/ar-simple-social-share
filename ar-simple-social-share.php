@@ -1,6 +1,6 @@
 <?php 
 /*
-Plugin Name: Ar Simple Social Sharing Plugin
+Plugin Name: Ar Simple Social Share
 Description: Add a group of simple dropdown social sharing buttons on your wordpress website
 Plugin URI: http://arwpthemes.com/plugins/ar-simple-social-share
 Author: AR WP Themes
