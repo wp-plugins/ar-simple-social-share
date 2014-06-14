@@ -347,10 +347,7 @@ add_action('wp_head', 'uzzal_head_materials');
 
 	}
 	add_shortcode( 'ar-fblike', 'ar_facebook_likebox' );
-
 // Just end of the plugin :D
 //This plugin was coded by Abdul Awal Uzzal. Catch me at facebook: http://facebook.com/webdesignerbd
 //Thanks for using this plugin
-
-
 ?>
