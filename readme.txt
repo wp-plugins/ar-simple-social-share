@@ -15,7 +15,7 @@ This plugin is developed to show a social sharing popup on your site after conte
 AR Simple social sharing plugin is a lightweight plugin tha comes with various options to show sharing option in posts & pages. Also it has a shortcode, so you can use the sharing link anywhere you want.
 Shortcode : [ar-simple-social-share]
 Theme File : `<?php echo do_shortcode('[ar-simple-social-share]'); ?>` <br />
-Features : <br />
+<h3>Features :</h3> <br />
 * Clean & Easy to use Admin Panel
 * Share on 10 Social Networks including Facebook, Twitter, Linkedin, Pinterest, Tumblr & much more
 * Choose any style of icon from 10 sets of icon.
@@ -24,7 +24,10 @@ Features : <br />
 * Customizable text
 
 Please Don't Forget to leave a review if you find this plugin useful. <br />
-Thanks
+Thanks<br />
+
+<b>Special Thanks</b><br />
+Salman Hossain Saif for 3 Sets of Icon Design. 
 
 == Installation ==
 
