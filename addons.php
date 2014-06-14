@@ -5,6 +5,4 @@ class facebook_likebox {
      }
 }
 add_shortcode( 'facebook-likebox', array( 'facebook_likebox', 'fb_likebox' ) );
-
-
 ?>
