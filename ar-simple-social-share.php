@@ -10,7 +10,7 @@ Author: AR WP Themes
 
 Author URI: http://abdulawal.com 
 
-Version: 2.0.2
+Version: 2.0.3
 
 License: GPLv2 or later
 
