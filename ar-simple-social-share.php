@@ -4,13 +4,13 @@ Plugin Name: Ar Simple Social Share
 
 Description: Add a group of simple dropdown social sharing buttons on your wordpress website
 
-Plugin URI: http://arwpthemes.com/plugins/ar-simple-social-share
+Plugin URI: http://themencode.com/ar-simple-social-share/
 
-Author: AR WP Themes
+Author: ThemeNcode
 
-Author URI: http://abdulawal.com 
+Author URI: http://themencode.com 
 
-Version: 2.0.2
+Version: 2.0.3
 
 License: GPLv2 or later
 
@@ -20,7 +20,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 /* 
 
-If you find any bug or need any kind of help, please feel free to send an email to mamb2b.awal@gmail.com . I'll get back to you asap.
+If you find any bug or need any kind of help, please feel free to send an email to contact@abdulawal.com . I'll get back to you asap.
 
 */
 
